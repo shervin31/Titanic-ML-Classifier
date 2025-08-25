@@ -1,7 +1,11 @@
 # 🚢 Titanic Survival Prediction: A Production-Ready ML Pipeline
 
 ## 🎯 Project Overview
-This project demonstrates my end-to-end capability to solve binary classification problems through a complete machine learning workflow. I developed a high-performance predictive system that determines passenger survival likelihood on the Titanic with **83% cross-validated accuracy** by leveraging sophisticated feature engineering and systematic model optimization.
+This project demonstrates my end-to-end capability to solve binary classification problems through a complete machine learning workflow. Using the classic **Kaggle Titanic dataset**, I developed a high-performance predictive system that determines passenger survival likelihood with **83% cross-validated accuracy** by leveraging sophisticated feature engineering and systematic model optimization.
+
+**Dataset Source:** [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
+- **`train.csv`**: Labeled training data (891 passengers)
+- **`test.csv`**: Unseen test data for prediction (418 passengers)
 
 ## 🏆 Technical Highlights
 
